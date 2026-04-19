@@ -1,4 +1,4 @@
-To run the game you will need to download and install Java version 11 or higher and install Apache Maven. 
+To run the game you will need to download and install Java JDK version 11 or higher and install Apache Maven. 
 This application connects to a local database made with MySql so you will also need to download and install MySql and create a database with the following schema:
 
 <img width="638" height="759" alt="image" src="https://github.com/user-attachments/assets/1c943f51-e6e4-45c1-afa8-473511d2f7e1" />
